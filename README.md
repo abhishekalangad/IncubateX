@@ -124,7 +124,7 @@ flutter run
 
 ### 📷 Screenshots
 
-[Landing Page](..\assets\Landing_page.png)
+![Landing Page](../assets/Landing_page.png)
 
 ### 📝 License
 
