@@ -125,17 +125,13 @@ flutter run
 ### 📷 Screenshots
 
 <p align="center">
-  <img src="assets/Landing_page.png" alt="Landing Page" width="300"/>
-  <img src="assets/Dashboard.png" alt="Dashboard" width="300"/>
-  <img src="assets/Register.png" alt="Register" width="300"/>
+  <img src="assets/Landing_page.png" alt="Landing Page" width="100" height="150"/><br>
+  <img src="assets/Dashboard.png" alt="Dashboard" width="100" height="150"/><br>
+  <img src="assets/Progress.png" alt="Student Page" width="100" height="150"/><br>
+  <img src="assets/Register.png" alt="Register" width="100" height="150" /><br>
 </p>
 
-<p align="center">
-  <img src="assets/Student_page.png" alt="Student Page" width="300"/>
-</p>
-
-
-![Landing Page](assets/Landing_page.png)
+<!-- ![Landing Page](assets/Landing_page.png) -->
 
 ### 📝 License
 
