@@ -124,11 +124,13 @@ flutter run
 
 ### 📷 Screenshots
 
+|     Landing Page     |      Dashboard       |       Progress       | Student Registration |
+|----------------------|----------------------|----------------------|----------------------|
 <p align="center">
-  <img src="assets/Landing_page.png" alt="Landing Page" width="100" height="150"/><br>
-  <img src="assets/Dashboard.png" alt="Dashboard" width="100" height="150"/><br>
-  <img src="assets/Progress.png" alt="Student Page" width="100" height="150"/><br>
-  <img src="assets/Register.png" alt="Register" width="100" height="150" /><br>
+  <img src="assets/Landing_page.png" alt="Landing Page" width="200" height="250"/>
+  <img src="assets/Dashboard.png" alt="Dashboard" width="200" height="250"/>
+  <img src="assets/Progress.png" alt="Student Page" width="200" height="250"/>
+  <img src="assets/Register.png" alt="Register" width="200" height="250" />
 </p>
 
 <!-- ![Landing Page](assets/Landing_page.png) -->
